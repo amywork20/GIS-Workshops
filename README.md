@@ -1,2 +1,2 @@
-# GIS-Workshops-main
+# GIS-Workshops
 GIS workshops
