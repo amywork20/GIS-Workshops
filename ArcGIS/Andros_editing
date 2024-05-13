@@ -1,0 +1,18 @@
+# Editing with ArcGIS Pro
+
+__Getting started with ArcGIS Pro:__ [ArcGIS Pro help](https://pro.arcgis.com/en/pro-app/help/main/welcome-to-the-arcgis-pro-app-help.htm)
+
+Things to consider
+ - Will you be in a connected environment when editing?
+ - Will you be collaboratively editing, where others will be editing at the same time?
+ - There are many ways to work with GIS, below is one approach to editing.
+
+### Creating a Feature class 
+
+1. Be sure that you are signed in to ArcGIS Pro.
+
+2. Create a new project (select Map)  
+
+    ![Setting up your project][ARCPRO1]  
+
+3. N
